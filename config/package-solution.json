@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "specification-bonding-leads-client-side-solution",
+    "id": "dfab394d-7b24-4431-8336-50f050c0e320",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "specification-bonding-leads description"
+      },
+      "longDescription": {
+        "default": "specification-bonding-leads description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "specification-bonding-leads Feature",
+        "description": "The feature that activates elements of the specification-bonding-leads solution.",
+        "id": "3259c819-8fb4-4a54-8b4e-383507a97380",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/specification-bonding-leads.sppkg"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "specification-bonding-leads-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/specificationBondingLeads/SpecificationBondingLeadsWebPart.js",
+          "manifest": "./src/webparts/specificationBondingLeads/SpecificationBondingLeadsWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SpecificationBondingLeadsWebPartStrings": "lib/webparts/specificationBondingLeads/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.8",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "specification-bonding-leads",
+    "libraryId": "dfab394d-7b24-4431-8336-50f050c0e320",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "specification-bonding-leads",
+    "solutionShortDescription": "specification-bonding-leads description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
