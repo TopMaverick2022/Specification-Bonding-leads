@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # specification-bonding-leads
 
 ## Summary
@@ -71,3 +72,6 @@ This extension illustrates the following concepts:
 - [Use Microsoft Graph in your solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-microsoft-graph-apis)
 - [Publish SharePoint Framework applications to the Marketplace](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/publish-to-marketplace-overview)
 - [Microsoft 365 Patterns and Practices](https://aka.ms/m365pnp) - Guidance, tooling, samples and open-source controls for your Microsoft 365 development
+=======
+# Specification-Bonding-leads
+>>>>>>> 981124993f2bab071c881dc29e6f9e83abb690d7
